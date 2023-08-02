@@ -1,0 +1,62 @@
+.planScreen__plan {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    opacity: 0.7;
+}
+
+.planScreen__plan:hover {
+    opacity: 1;
+}
+
+.planScreen__plan > button {
+    padding: 10px 20px;
+    font-size: 1rem;
+    color: #fff;
+    background-color: #e50914;
+    font-weight: 600;
+    border: none;
+    cursor: pointer;
+}
+
+.planScreen__plan_1 {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    opacity: 0.7;
+}
+
+.planScreen__plan_1:hover {
+    opacity: 1;
+}
+
+.planScreen__plan_1 > button {
+    padding: 10px 20px;
+    font-size: 1rem;
+    color: #fff;
+    background-color: #e50914;
+    font-weight: 600;
+    border: none;
+    cursor: pointer;
+}
+
+.planScreen__plan_2 {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    opacity: 0.7;
+}
+
+.planScreen__plan_2:hover {
+    opacity: 1;
+}
+
+.planScreen__plan_2 > button {
+    padding: 10px 20px;
+    font-size: 1rem;
+    color: #fff;
+    background-color: gray;
+    font-weight: 600;
+    border: none;
+    cursor: pointer;
+}
